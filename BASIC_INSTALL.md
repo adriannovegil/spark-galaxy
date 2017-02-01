@@ -1,6 +1,4 @@
-# Install and Configure Galaxy
-
-## Basic Installation
+# Basic Installation
 
 In addition to using the public Galaxy server (a.k.a. [Main](https://wiki.galaxyproject.org/Main)), you can install your own instance of Galaxy (what this page is about), or create a cloud-based instance of Galaxy. Another option is to use one of the ever-increasing number of public Galaxies hosted by other organizations.
 
@@ -101,7 +99,3 @@ admin_users = admin@email.edu
 ```
 
 Note that you have to restart Galaxy after modifying the configuration for changes to take effect.
-
-
-
-## Running Galaxy in a Production Environment
